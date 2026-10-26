@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/intelligent180-alt"><img src="https://img.shields.io/badge/GitHub-intelligent180--alt-0b1f33?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://financeiro.byethost32.com/docs/portfolio.html"><img src="https://img.shields.io/badge/Portfólio-online-00a884?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
-  <a href="https://financeiro.byethost32.com/docs/api.html"><img src="https://img.shields.io/badge/API-REST-006d77?style=for-the-badge&logo=fastapi&logoColor=white" alt="API REST" /></a>
+  <a href="https://intelligent180-alt.github.io/controle-financeiro/portfolio.html"><img src="https://img.shields.io/badge/Portfólio-online-00a884?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://intelligent180-alt.github.io/controle-financeiro/api.html"><img src="https://img.shields.io/badge/API-REST-006d77?style=for-the-badge&logo=fastapi&logoColor=white" alt="API REST" /></a>
 </div>
 
 <br>
@@ -21,7 +21,7 @@
     <td width="50%" valign="top">
       <h3>🚀 O que estou construindo</h3>
       <ul>
-        <li>Sistemas financeiros com experiência visual moderna;</li>
+        <li>Produtos digitais e aplicações web para resolver problemas reais;</li>
         <li>APIs REST documentadas para integração com outros sistemas;</li>
         <li>Aplicações web responsivas e aplicativos Android;</li>
         <li>Soluções orientadas a dados, segurança e evolução contínua.</li>
@@ -111,8 +111,8 @@
 <h2>📌 Acesse</h2>
 
 <p>
-  🌐 <a href="https://financeiro.byethost32.com/docs/portfolio.html"><strong>Portfólio do projeto</strong></a><br>
-  🔗 <a href="https://financeiro.byethost32.com/docs/api.html"><strong>Documentação visual da API REST</strong></a><br>
+  🌐 <a href="https://intelligent180-alt.github.io/controle-financeiro/portfolio.html"><strong>Portfólio do projeto</strong></a><br>
+  🔗 <a href="https://intelligent180-alt.github.io/controle-financeiro/api.html"><strong>Documentação visual da API REST</strong></a><br>
   📦 <a href="https://github.com/intelligent180-alt/controle-financeiro"><strong>Código-fonte no GitHub</strong></a>
 </p>
 

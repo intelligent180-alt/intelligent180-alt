@@ -48,8 +48,19 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=0b1f33" alt="Android" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/REST_API-00A884?style=for-the-badge&logo=swagger&logoColor=white" alt="REST API" />
+</div>
+
+<h2>📚 Em desenvolvimento</h2>
+
+<p><strong>Node.js</strong> está entre as tecnologias que estou estudando com dedicação, aplicando os conceitos em APIs, serviços web, integração com dados e automações. A aprendizagem está em evolução contínua, com foco em boas práticas, organização de código e construção de soluções reais.</p>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Node.js-em%20estudo-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js em estudo" />
+  <img src="https://img.shields.io/badge/Express.js-aprendizado-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js em aprendizado" />
+  <img src="https://img.shields.io/badge/npm-prática-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm em prática" />
 </div>
 
 <h2>⭐ Projeto em destaque</h2>

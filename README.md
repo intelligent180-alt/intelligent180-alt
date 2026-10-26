@@ -76,6 +76,38 @@
   </tr>
 </table>
 
+<h2>🧠 Como eu desenvolvo</h2>
+
+<p>Também desenvolvi um bom <strong>prompt de trabalho com LLMs</strong> para apoiar meu processo de desenvolvimento. Uso a inteligência artificial como uma ferramenta de pesquisa, revisão e aprendizagem — não para fazer todo o trabalho por mim.</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 Aprender na prática</h3>
+      <ul>
+        <li>Busco referências, documentação e diferentes abordagens;</li>
+        <li>Analiso requisitos, causas de bugs e decisões técnicas;</li>
+        <li>Testo, corrijo, adapto e explico o código que utilizo;</li>
+        <li>Transformo cada erro em uma oportunidade de evolução.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 Resolver problemas</h3>
+      <ul>
+        <li>Escrever código é apenas uma parte do desenvolvimento;</li>
+        <li>Também é preciso pesquisar, interpretar e raciocinar;</li>
+        <li>Estudo algoritmos capazes de resolver problemas reais;</li>
+        <li>Construo soluções entendendo a lógica por trás delas.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LLMs-apoio%20ao%20aprendizado-006d77?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs como apoio ao aprendizado" />
+  <img src="https://img.shields.io/badge/Aprendizado-contínuo-00a884?style=for-the-badge&logo=bookstack&logoColor=white" alt="Aprendizado contínuo" />
+</div>
+
 <h2>📌 Acesse</h2>
 
 <p>
